@@ -1,3 +1,5 @@
+tkmagesh77@gmail.com
+
 install angular
 ---------------------------------------
 npm install @angular/cli -g
