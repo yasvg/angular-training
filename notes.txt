@@ -1,0 +1,61 @@
+install angular
+---------------------------------------
+npm install @angular/cli -g
+
+1. create new application in Angular
+-------------------------------------------
+ng new first-app
+
+2. Starting point of application
+---------------------------------------------
+main.ts
+
+3. Module parts
+-------------------------
+declarations - UI parts
+imports - Dependencies
+providers - Non UI
+bootstrap - Starting point
+
+4. 6 Different ways to handle async request in JS
+-----------------------------------------------------------
+1.callbacks
+2.events
+3.promises
+4.async await
+5.generators
+6.observables
+
+5.Two ways of evaluation in collection
+------------------------------------------------
+1.Eigen Evaluation
+2.Lazy Evaluation
+
+6. Application Types acc to flow
+---------------------------------------------------------
+1.Application flow/order is defined - Predefined
+2.Menu Driven Application - User Defined / Event Driven Application - Eg UI Applications, Servers
+3.Future Data Applications - Observable
+
+
+* Any app must have minimum one module
+* The first and foremost problem that a framework should do is maintainability.
+* Maintaniable Application = Easy to Change
+* Good UI = Do not make your user think
+* Good UI = Do not put user to think
+* Good UI = Number of choices beyond a certain limit, makes us take ill-formed decisions(Paralysis by Analysis)
+* State changes only for three reasons: 1. Dom Event, 2. Timer Events and 3. XHR
+
+Further Knowledge
+-----------------------------------
+# Pure Functions (Has deterministic output)
+
+Few things to study: information
+----------------------------------------
+1. Forms
+2. Routing
+
+
+Questions
+-----------------------------
+1. What is npm install @angular/cli? Why is @ before node-module?
