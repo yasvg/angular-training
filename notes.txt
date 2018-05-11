@@ -1,5 +1,9 @@
 tkmagesh77@gmail.com
 
+install node js and npm in linux
+-----------------------------------------------
+https://github.com/nodejs/help/wiki/Installation
+
 install angular
 ---------------------------------------
 npm install @angular/cli -g
